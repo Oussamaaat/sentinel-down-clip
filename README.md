@@ -14,11 +14,11 @@ sentinel-down-clip is a Jupyter Notebook that simplifies the process of querying
 
 ## Getting Started 🏁
 
-1. Clone the repository: `git clone https://github.com/your-username/sentinel-down-clip.git`
+1. Clone the repository: `git clone https://github.com/oussamaaat/sentinel-down-clip.git`
 2. It is recommended to work in a venv named sdc_env.  
 3. Install the required dependencies:  
    1. `pip install GDAL-3.2.3-cp38-cp38-win_amd64.whl`.
-   2. `pip install sentinelsat keplergl numpy matplotlib sklearn`.
+   2. `pip install sentinelsat keplergl numpy matplotlib scikit-learn`.
    3. If you face an error install the gdal wheel and keplergl seperately. 
 4. Launch Jupyter Notebook: `jupyter notebook`
 5. Open the "sdc_notebook.ipynb" notebook.
